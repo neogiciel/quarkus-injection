@@ -1,4 +1,4 @@
-## <h1>Exemple Simple Quarkus d'injection de dépendances</h1>
+## <h1>Projet Quarkus d'injection de dépendances</h1>
 ***
 Un peu d'histoire
 **Tout d'abord :**
